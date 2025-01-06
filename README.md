@@ -1,4 +1,4 @@
 # Leetcode Solution Using C#
 
-2025-01-05 Day0
+- [x] 1. Two Sum
 
