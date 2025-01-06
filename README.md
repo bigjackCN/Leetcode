@@ -1,8 +1,14 @@
-# Leetcode Solution Using Go
+# :trollface: Leetcode Solution Using Javascript
+
+:frowning_face: All 4/3415
 
 :green_circle: Easy 4/849
+
 :yellow_circle: Medium 0/1779
+
 :red_circle: Hard 0/787
 
 - [x] 1. Two Sum
-
+- [x] 9. Palindrome Number
+- [x] 13. Roman to Integer
+- [x] 69. Sqrt(x)
