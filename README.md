@@ -8,3 +8,5 @@
 - [x] 9. Palindrome Number
 - [x] 13. Roman to Integer
 - [x] 69. Sqrt(x)
+- [x] 136. Single Number
+- [x] 268. Missing Number
