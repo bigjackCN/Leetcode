@@ -7,6 +7,8 @@
 - [x] 1. Two Sum
 - [x] 9. Palindrome Number
 - [x] 13. Roman to Integer
+- [x] 35. Search Insert Position
+- [x] 58. Length of Last Word
 - [x] 69. Sqrt(x)
 - [x] 136. Single Number
 - [x] 268. Missing Number
