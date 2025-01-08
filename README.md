@@ -1,7 +1,7 @@
 # Leetcode Solution Using Javascript
 
-:frowning_face: All 6/3415
-:green_circle: Easy 6/849
+:frowning_face: All 8/3415
+:green_circle: Easy 8/849
 :yellow_circle: Medium 0/1779
 :red_circle: Hard 0/787
 - [x] 1. Two Sum
