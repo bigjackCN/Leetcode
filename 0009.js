@@ -29,4 +29,4 @@ var isPalindrome = function(x) {
         high = high - 1
     }
     return true
-};
+}; 
