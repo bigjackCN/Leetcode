@@ -30,4 +30,4 @@ var romanToInt = function(s) {
     // we now handle the last digit, notice it is always being added
     result = result + dict.get(s[(s.length - 1)])
     return result
-}; 
+};
