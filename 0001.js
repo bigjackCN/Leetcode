@@ -21,4 +21,4 @@ var twoSum = function(nums, target) {
         // if not, we store our candidate and its index
         dict.set(target - nums[i], i)
     }
-}; 
+};
