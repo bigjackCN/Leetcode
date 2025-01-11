@@ -13,6 +13,8 @@
 - [x] 35. Search Insert Position
 - [x] 58. Length of Last Word
 - [x] 66. Plus One
+- [x] 67. Add Binary
 - [x] 69. Sqrt(x)
+- [x] 70. Climbing Stairs
 - [x] 136. Single Number
 - [x] 268. Missing Number
